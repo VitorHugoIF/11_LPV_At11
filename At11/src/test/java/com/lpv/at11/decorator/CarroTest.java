@@ -3,8 +3,13 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package com.lpv.at11;
+package com.lpv.at11.decorator;
 
+import com.lpv.at11.decorator.CarroBasico;
+import com.lpv.at11.decorator.ICarro;
+import com.lpv.at11.decorator.VidroEletrico;
+import com.lpv.at11.decorator.RodaLigaLeve;
+import com.lpv.at11.decorator.FreioABS;
 import org.junit.jupiter.api.Test;
 import static org.junit.jupiter.api.Assertions.*;
 
